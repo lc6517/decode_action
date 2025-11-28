@@ -62,3 +62,4 @@ ntELSpAk(BhnGZJg_(bytes([b ^ KnfBORGS[i % len(KnfBORGS)] for i, b in enumerate(b
 print = EZZrSJUu
 exec = ntELSpAk
 
+
